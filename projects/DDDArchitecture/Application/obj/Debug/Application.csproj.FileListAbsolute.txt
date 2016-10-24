@@ -1,0 +1,16 @@
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Application.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Application.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Data.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Domain.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\NHibernate.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\FluentNHibernate.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Iesi.Collections.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Data.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Domain.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\NHibernate.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\FluentNHibernate.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\FluentNHibernate.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\bin\Debug\Iesi.Collections.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\obj\Debug\Application.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Application\obj\Debug\Application.pdb
