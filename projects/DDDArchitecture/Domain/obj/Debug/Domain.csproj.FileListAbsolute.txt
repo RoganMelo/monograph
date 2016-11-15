@@ -3,3 +3,8 @@ C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Domain\bin\D
 C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Domain\obj\Debug\Domain.dll
 C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Domain\obj\Debug\Domain.pdb
 C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Domain\bin\Debug\Domain.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Domain\bin\Debug\Domain.pdb
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Domain\obj\Debug\Domain.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Domain\obj\Debug\Domain.pdb

@@ -14,3 +14,19 @@ C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Data\bin\Deb
 C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Data\obj\Debug\Data.dll
 C:\Users\dell\Documents\Visual Studio 2015\Projects\DDDArchitecture\Data\obj\Debug\Data.pdb
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Data.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Data.pdb
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Domain.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\FluentNHibernate.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Iesi.Collections.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\NHibernate.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Npgsql.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Domain.pdb
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\FluentNHibernate.pdb
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\FluentNHibernate.xml
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Iesi.Collections.xml
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\NHibernate.xml
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\bin\Debug\Npgsql.xml
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\obj\Debug\Data.dll
+C:\Users\dell\Downloads\monograph\projects\DDDArchitecture\Data\obj\Debug\Data.pdb

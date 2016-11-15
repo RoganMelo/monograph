@@ -3,6 +3,23 @@
     padding-bottom: 20px;
 }
 
+.navbar.navbar-inverse {
+    background-color: #428bca !important;
+    border-color: #357ebd !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: blue !important;
+}
+
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
